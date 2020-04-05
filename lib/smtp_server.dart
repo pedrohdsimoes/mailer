@@ -3,6 +3,7 @@ export 'smtp_server/hotmail.dart';
 export 'smtp_server/mailgun.dart';
 export 'smtp_server/qq.dart';
 export 'smtp_server/yahoo.dart';
+export 'smtp_server/civiseu.dart';
 
 class SmtpServer {
   final String host;
